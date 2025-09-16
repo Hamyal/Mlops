@@ -41,5 +41,3 @@ Observation: Random Forest performed the best with perfect accuracy.
 4. Register the best model: python register\_model.py
 5. Open MLflow UI: mlflow ui (visit [http://localhost:5000](http://localhost:5000))
 
-
-Do you want me to do that?
