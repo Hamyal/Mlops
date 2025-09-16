@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hamya/Mlops/mlruns/559509346360239158/e16d9946fc0d43d18d47a76539910560/artifacts
+end_time: 1758054052888
+entry_point_name: ''
+experiment_id: '559509346360239158'
+lifecycle_stage: active
+run_id: e16d9946fc0d43d18d47a76539910560
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758054047381
+status: 3
+tags: []
+user_id: hamya

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hamya/Mlops/mlruns/902497405039424643/e9b0911f2eff433d99dbe8dcf6e7f2c7/artifacts
+deleted_time: 1758054088689
+end_time: 1758053462806
+entry_point_name: ''
+experiment_id: '902497405039424643'
+lifecycle_stage: deleted
+run_id: e9b0911f2eff433d99dbe8dcf6e7f2c7
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758053457671
+status: 3
+tags: []
+user_id: hamya
