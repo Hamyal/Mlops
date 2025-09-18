@@ -31,7 +31,11 @@ Observation: Random Forest performed the best with perfect accuracy.
 
 ## Model Registration
 
-* The best model (Random Forest) was registered in the MLflow Model Registry as `Hamyal`.
+* The best model (Random Forest) was registered in the MLflow Model Registry as `Wine_Classifier`.
+* <img width="1651" height="685" alt="image" src="https://github.com/user-attachments/assets/b6c806e1-7af5-4e9d-825b-34fe0f502c62" />
+<img width="1655" height="692" alt="image" src="https://github.com/user-attachments/assets/00aa0310-c7d5-47c0-aa47-e1cc7ce3624e" />
+
+
 
 ## Instructions to Run the Code
 
